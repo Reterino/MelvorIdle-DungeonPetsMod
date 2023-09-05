@@ -1,3 +1,7 @@
 {
-  "setup": "setup.mjs"
+  "setup": "setup.mjs",
+  "namespace": "dungeonPets",
+  "load": [
+    "templates.html"
+  ]
 }
